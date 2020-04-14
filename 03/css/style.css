@@ -1,0 +1,52 @@
+body{
+    margin: 0;padding: 0;
+    background:url(../img/gtx2.jpg) -90px -80px;
+}
+.hy{
+    color: rgba(255,255,255,0.9);font-size: 50px;position: absolute;left: 15%;top: 35%;
+}
+form{
+    width: 25%; position: absolute;right: 5%;top: 15%;background-color: rgba(255,255,255,0.3);padding: 10px 10px 0 10px;
+    color: #fff;border-radius: 30px;
+}
+table{
+    width: 100%;
+}
+caption{
+    font-size: 30px;height: 50px;
+}
+input{
+    color: #fff;background: none;border: none;border-bottom: 1px solid rgba(255,255,255,0.2);outline: none;
+    
+}
+input::placeholder{
+    color: #fff;
+}
+form tr{
+    height: 50px;width: 100%;
+}
+.tex{
+    width: 100%;
+    color: #fff;
+}
+.sr{
+    width: 79%;
+}
+label{
+    font-size: 12px;
+    color: #fff;
+}
+.hq{
+    background-color: aqua;border: none;border-radius: 5px;float: right;
+}
+.but{
+    width: 100%;height: 30px;background:none;border: 1px solid rgb(97, 218, 147);
+    color: #fff;
+}
+.but:hover{
+    background-color: rgb(97, 218, 147);
+}
+form a{
+    margin-right: 150px;text-decoration: none;
+    color: #fff;font-size: 12px;
+}
